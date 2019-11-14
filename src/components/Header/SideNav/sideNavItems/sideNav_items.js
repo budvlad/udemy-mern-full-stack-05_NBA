@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import FontAwesome from "react-fontawesome";
-import styles from "./sideNav.module.css";
+import styles from "./sideNavItems.module.css";
 
 const SideNavItems = () => {
   const items = [
