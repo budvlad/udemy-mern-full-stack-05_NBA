@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../videosList.module.css";
+import styles from "../videosList.module.scss";
 
 import VideoListTemplate from "../videosListTemplate";
 

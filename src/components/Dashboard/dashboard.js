@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import FormField from "../widgets/FormFields/formFields";
-import styles from "./dashboard.module.css";
+import styles from "./dashboard.module.scss";
 import { firebaseTeams, firebaseArticles, firebase } from "../../firebase";
 
 import { Editor } from "react-draft-wysiwyg";

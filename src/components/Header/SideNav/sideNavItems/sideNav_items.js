@@ -3,7 +3,7 @@ import { Link, withRouter } from "react-router-dom";
 
 import { firebase } from "../../../../firebase";
 import FontAwesome from "react-fontawesome";
-import styles from "./sideNavItems.module.css";
+import styles from "./sideNavItems.module.scss";
 
 const SideNavItems = props => {
   const items = [

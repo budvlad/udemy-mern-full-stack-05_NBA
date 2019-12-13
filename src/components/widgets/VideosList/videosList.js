@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import styles from "./videosList.module.css";
+import styles from "./videosList.module.scss";
 import {
   firebaseTeams,
   firebaseVideos,

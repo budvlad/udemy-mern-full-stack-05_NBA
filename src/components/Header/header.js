@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import FontAwesome from "react-fontawesome";
 
-import styles from "./header.module.css";
+import styles from "./header.module.scss";
 
 import SideNav from "./SideNav/sideNav";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./formFields.module.css";
+import styles from "./formFields.module.scss";
 
 const FormFields = ({ formdata, change, id }) => {
   const showError = () => {

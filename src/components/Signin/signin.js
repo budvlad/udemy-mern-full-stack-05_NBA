@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import styles from "./signin.module.css";
+import styles from "./signin.module.scss";
 import { firebase } from "../../firebase";
 
 import FormField from "../widgets/FormFields/formFields";

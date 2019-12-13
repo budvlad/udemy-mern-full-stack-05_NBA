@@ -7,7 +7,7 @@ import {
   firebaseLooper
 } from "../../../firebase";
 
-import styles from "./newsList.module.css";
+import styles from "./newsList.module.scss";
 
 import Button from "../Buttons/buttons";
 import CardInfo from "../../widgets/CardInfo/cardInfo";

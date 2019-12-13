@@ -2,7 +2,7 @@ import React from "react";
 import FontAwesome from "react-fontawesome";
 import moment from "moment";
 
-import styles from "./cardInfo.module.css";
+import styles from "./cardInfo.module.scss";
 
 const CardInfo = props => {
   const teamName = (teams, team) => {
