@@ -72,7 +72,7 @@ class Dashboard extends Component {
     }
   };
 
-  componentDidMount() {
+  UNSAFE_componentDidMount() {
     this.loadTeams();
   }
 

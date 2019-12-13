@@ -21,7 +21,7 @@ class NewsList extends Component {
     amount: this.props.amount
   };
 
-  componentWillMount() {
+  UNSAFE_componentWillMount() {
     this.request(this.state.start, this.state.end);
   }
 

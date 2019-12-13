@@ -10,7 +10,7 @@ class NewsSlider extends Component {
     news: []
   };
 
-  componentWillMount() {
+  UNSAFE_componentWillMount() {
     firebaseArticles
       .limitToFirst(4)
       .once("value")
