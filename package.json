@@ -16,7 +16,7 @@
     "react-firebase-file-uploader": "^2.4.3",
     "react-fontawesome": "^1.7.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-simple-sidenav": "^1.0.1",
     "react-slick": "^0.25.2",
     "react-transition-group": "^4.3.0"
